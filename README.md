@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 # restaurant_management_system
-=======
 Restaurant Management System
 Overview
 The Restaurant Management System is a web-based application designed to streamline operations in restaurants. It provides features for managing menus, handling orders, user authentication, and more. This system is built using Python and Flask and employs a relational database for data storage.
@@ -33,4 +31,3 @@ restaurant_management_system/
 License
 This project is licensed under the MIT License.
 
->>>>>>> fcd7822072ff572d6ec5e7d71090f4572ec60532
